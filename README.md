@@ -1,7 +1,5 @@
 # Fourier Drawing
-See notebook file for written details on how the project works. YouTube video / dashboard coming soon.
+See notebook file for written details on how the project works. 
 
-Please enjoy this low quality crusty GIF (that is somehow 27MB):
-<p align="center">
-  <img src="preview.gif" alt="preview" />
-</p>
+## YouTube video
+[![YouTub Video ](https://i3.ytimg.com/vi/P0JYiSCOmxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=P0JYiSCOmxc)
